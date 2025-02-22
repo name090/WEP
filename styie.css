@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: rgb(27, 143, 48);
+}
+h2 {
+    color: rgb(176, 139, 139);
+}
+h3 {
+    color: rgb(92, 59, 105);
+}
+h4 {
+    color: rgb(119, 65, 141);
+}
+h5 {
+    color: rgb(125, 149, 196);
+}
+h6{
+    color: brown;
+}
+
+p {
+    color:  darkblue;
+    font-size: 64px;
+    border: 2px solid darkgoldenrod;
+}
+
